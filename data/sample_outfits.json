@@ -1,0 +1,25 @@
+[
+    {
+        "id": "outfit_001",
+        "top": "black overshirt",
+        "bottom": "black straight jeans",
+        "shoes": "leather sneakers",
+        "tags": [
+            "minimal",
+            "casual",
+            "neutral"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "outfit_002",
+        "top": "white tee",
+        "bottom": "olive cargo pants",
+        "shoes": "sneakers",
+        "tags": [
+            "streetwear",
+            "relaxed"
+        ],
+        "season": "summer"
+    }
+]
