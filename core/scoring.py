@@ -1,22 +1,24 @@
+import time
+
 def score_outfit(outfit, preferences, memory):
     score = 0
     reasons = []
+    now = time.time()
 
     for tag in outfit["tags"]:
+        # Preference match
         if tag in preferences["styles"]:
             score += 2
             reasons.append(f"matches your preferred style ({tag})")
 
+        # Learned memory
         if tag in memory["preferred_tags"]:
-            score += memory["preferred_tags"][tag]
+            entry = memory["preferred_tags"][tag]
+            age = now - entry["last_updated"]
+            decay = max(0.2, 1 - (age / (60 * 60 * 24 * 7)))  # 1 week decay
+            weighted = entry["score"] * decay
+
+            score += weighted
             reasons.append(f"you liked {tag} before")
-
-        if tag in memory["disliked_tags"]:
-            score -= memory["disliked_tags"][tag]
-            reasons.append(f"you usually dislike {tag}")
-
-    if outfit["season"] == preferences["season"]:
-        score += 1
-        reasons.append(f"fits the {outfit['season']} season")
 
     return score, reasons

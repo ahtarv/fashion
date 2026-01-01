@@ -1,13 +1,13 @@
 import json
 import os
+import time
 
 MEMORY_FILE = "memory/user_memory.json"
 
 def load_memory():
     if not os.path.exists(MEMORY_FILE):
         return {
-            "preferred_tags": {},
-            "disliked_tags": {}
+            "preferred_tags": {}
         }
     with open(MEMORY_FILE, "r") as f:
         return json.load(f)
@@ -18,11 +18,20 @@ def save_memory(memory):
 
 def update_memory(outfit, feedback):
     memory = load_memory()
+    now = int(time.time())
 
     for tag in outfit["tags"]:
+        entry = memory["preferred_tags"].get(tag, {
+            "score": 0,
+            "last_updated": now
+        })
+
         if feedback == "like":
-            memory["preferred_tags"][tag] = memory["preferred_tags"].get(tag, 0) + 1
+            entry["score"] += 1
         elif feedback == "dislike":
-            memory["disliked_tags"][tag] = memory["disliked_tags"].get(tag, 0) + 1
+            entry["score"] -= 1
+
+        entry["last_updated"] = now
+        memory["preferred_tags"][tag] = entry
 
     save_memory(memory)
