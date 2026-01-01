@@ -24,11 +24,8 @@ print(f"Top: {best['top']}")
 print(f"Bottom: {best['bottom']}")
 print(f"Shoes: {best['shoes']}")
 
-feedback = input("\nDid you like this outfit? (yes/no)").strip().lower()
-
-if feedback == "yes":
-    update_memory(best, "like")
-else:
-    update_memory(best, "dislike")  
+print("\nWhy this outfit:")
+for r in reasons:
+    print("-", r)
 
 print("memory updated")
