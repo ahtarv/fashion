@@ -1,121 +1,367 @@
 [
     {
         "id": "o1",
-        "top": "black overshirt",
-        "bottom": "black straight jeans",
-        "shoes": "leather sneakers",
+        "top": "Oversized White Cotton T-Shirt",
+        "bottom": "Black Wide-Leg Pleated Trousers",
+        "shoes": "White Leather Minimalist Sneakers",
+        "brand": "Uniqlo",
+        "price": 85,
         "tags": [
             "minimal",
-            "neutral",
-            "casual"
-        ],
-        "season": "fall"
-    },
-    {
-        "id": "o2",
-        "top": "white tee",
-        "bottom": "olive cargo pants",
-        "shoes": "sneakers",
-        "tags": [
-            "streetwear",
-            "relaxed",
-            "casual"
-        ],
-        "season": "summer"
-    },
-    {
-        "id": "o3",
-        "top": "grey hoodie",
-        "bottom": "black joggers",
-        "shoes": "running shoes",
-        "tags": [
-            "sporty",
-            "relaxed"
-        ],
-        "season": "winter"
-    },
-    {
-        "id": "o4",
-        "top": "navy button-down",
-        "bottom": "beige chinos",
-        "shoes": "loafers",
-        "tags": [
-            "smart-casual",
-            "clean"
+            "casual",
+            "monochrome"
         ],
         "season": "spring"
     },
     {
-        "id": "o5",
-        "top": "cream sweater",
-        "bottom": "dark denim",
-        "shoes": "boots",
+        "id": "o2",
+        "top": "Grey Heavyweight Hoodie",
+        "bottom": "Navy Cargo Joggers",
+        "shoes": "Grey Running Shoes",
+        "brand": "Nike",
+        "price": 140,
         "tags": [
+            "sporty",
+            "streetwear",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o3",
+        "top": "Beige Linen Button-Down Shirt",
+        "bottom": "Olive Green Chino Shorts",
+        "shoes": "Brown Leather Sandals",
+        "brand": "Zara",
+        "price": 95,
+        "tags": [
+            "smart-casual",
+            "relaxed",
+            "neutral"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o4",
+        "top": "Black Turtleneck Sweater",
+        "bottom": "Charcoal Wool Trousers",
+        "shoes": "Black Chelsea Boots",
+        "brand": "COS",
+        "price": 210,
+        "tags": [
+            "minimal",
+            "smart-casual",
+            "monochrome"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o5",
+        "top": "Navy Blue Polo Shirt",
+        "bottom": "Beige Slim Fit Chinos",
+        "shoes": "White Canvas Loafers",
+        "brand": "Massimo Dutti",
+        "price": 120,
+        "tags": [
+            "smart-casual",
+            "neutral"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o6",
+        "top": "Graphic Print Oversized Tee",
+        "bottom": "Light Wash Distressed Jeans",
+        "shoes": "High-Top Basketball Sneakers",
+        "brand": "Stussy",
+        "price": 150,
+        "tags": [
+            "streetwear",
+            "casual",
+            "relaxed"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o7",
+        "top": "Cream Cable Knit Sweater",
+        "bottom": "Dark Denim Straight Jeans",
+        "shoes": "Brown Suede Desert Boots",
+        "brand": "Gap",
+        "price": 110,
+        "tags": [
+            "casual",
+            "cozy",
+            "neutral"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o8",
+        "top": "Olive Green Bomber Jacket over White Tee",
+        "bottom": "Black Slim Jeans",
+        "shoes": "Black Combat Boots",
+        "brand": "AllSaints",
+        "price": 290,
+        "tags": [
+            "streetwear",
+            "smart-casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o9",
+        "top": "Light Blue Oxford Shirt",
+        "bottom": "Navy Tailored Shorts",
+        "shoes": "Boat Shoes",
+        "brand": "Ralph Lauren",
+        "price": 180,
+        "tags": [
+            "smart-casual",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o10",
+        "top": "Black Puffer Jacket",
+        "bottom": "Grey Sweatpants",
+        "shoes": "Chunky White Sneakers",
+        "brand": "The North Face",
+        "price": 250,
+        "tags": [
+            "streetwear",
+            "cozy",
+            "winter"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o11",
+        "top": "Striped Breton Long Sleeve",
+        "bottom": "Navy Work Pants",
+        "shoes": "White Canvas Sneakers",
+        "brand": "Arket",
+        "price": 90,
+        "tags": [
+            "casual",
+            "minimal"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o12",
+        "top": "Charcoal Grey Cardigan",
+        "bottom": "Black Tapered Trousers",
+        "shoes": "Black Loafers",
+        "brand": "Uniqlo",
+        "price": 100,
+        "tags": [
+            "smart-casual",
             "minimal",
             "cozy"
         ],
         "season": "fall"
     },
     {
-        "id": "o6",
-        "top": "black tee",
-        "bottom": "grey trousers",
-        "shoes": "derbies",
+        "id": "o13",
+        "top": "White Tank Top",
+        "bottom": "Beige Linen Trousers",
+        "shoes": "Leather Slides",
+        "brand": "H&M",
+        "price": 60,
+        "tags": [
+            "relaxed",
+            "neutral",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o14",
+        "top": "Forest Green Sweatshirt",
+        "bottom": "Khaki Corduroy Pants",
+        "shoes": "Retro Runners",
+        "brand": "New Balance",
+        "price": 130,
+        "tags": [
+            "casual",
+            "sporty",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o15",
+        "top": "Black Denim Jacket",
+        "bottom": "Black Skinny Jeans",
+        "shoes": "Black Leather Boots",
+        "brand": "Levi's",
+        "price": 160,
         "tags": [
             "monochrome",
-            "clean"
+            "casual",
+            "streetwear"
         ],
         "season": "spring"
     },
     {
-        "id": "o7",
-        "top": "oversized hoodie",
-        "bottom": "cargo pants",
-        "shoes": "high-top sneakers",
+        "id": "o16",
+        "top": "Rust Orange Knit Sweater",
+        "bottom": "Raw Denim Jeans",
+        "shoes": "Brown Work Boots",
+        "brand": "Carhartt WIP",
+        "price": 190,
         "tags": [
-            "streetwear",
-            "relaxed"
+            "casual",
+            "streetwear"
         ],
         "season": "winter"
     },
     {
-        "id": "o8",
-        "top": "linen shirt",
-        "bottom": "tailored shorts",
-        "shoes": "espadrilles",
+        "id": "o17",
+        "top": "Tech Fleece Zip Hoodie",
+        "bottom": "Tech Fleece Joggers",
+        "shoes": "Running Trainers",
+        "brand": "Nike",
+        "price": 220,
         "tags": [
-            "summer",
-            "clean"
+            "sporty",
+            "streetwear",
+            "cozy"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o18",
+        "top": "Pale Pink T-Shirt",
+        "bottom": "Light Grey Shorts",
+        "shoes": "White Slip-Ons",
+        "brand": "Vans",
+        "price": 55,
+        "tags": [
+            "casual",
+            "relaxed",
+            "summer"
         ],
         "season": "summer"
     },
     {
-        "id": "o9",
-        "top": "black turtleneck",
-        "bottom": "slim trousers",
-        "shoes": "chelsea boots",
+        "id": "o19",
+        "top": "Camel Overcoat",
+        "bottom": "Black Dress Pants",
+        "shoes": "Black Oxford Shoes",
+        "brand": "Banana Republic",
+        "price": 280,
+        "tags": [
+            "smart-casual",
+            "neutral"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o20",
+        "top": "White Oversized Shirt",
+        "bottom": "Black Biker Shorts",
+        "shoes": "Chunky Trainers",
+        "brand": "Adidas",
+        "price": 85,
+        "tags": [
+            "sporty",
+            "relaxed",
+            "monochrome"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o21",
+        "top": "Grey Mock Neck Top",
+        "bottom": "Navy Pleated Skirt",
+        "shoes": "Black Mary Janes",
+        "brand": "Uniqlo",
+        "price": 75,
         "tags": [
             "minimal",
             "smart-casual"
         ],
-        "season": "winter"
+        "season": "fall"
     },
     {
-        "id": "o10",
-        "top": "graphic tee",
-        "bottom": "ripped jeans",
-        "shoes": "skate shoes",
+        "id": "o22",
+        "top": "Beige Trench Coat",
+        "bottom": "Straight Leg Blue Jeans",
+        "shoes": "White Sneakers",
+        "brand": "Burberry (Vintage)",
+        "price": 300,
+        "tags": [
+            "classic",
+            "smart-casual",
+            "neutral"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o23",
+        "top": "Graphic Band Tee",
+        "bottom": "Black Ripped Jeans",
+        "shoes": "Black Converse High Tops",
+        "brand": "Converse",
+        "price": 90,
         "tags": [
             "streetwear",
-            "edgy"
+            "casual",
+            "monochrome"
         ],
         "season": "summer"
     },
     {
-        "id": "o11",
-        "top": "flannel shirt",
-        "bottom": "straight jeans",
-        "shoes": "boots",
+        "id": "o24",
+        "top": "Navy Wool Peacoat",
+        "bottom": "Grey Wool Trousers",
+        "shoes": "Brown Brogues",
+        "brand": "J.Crew",
+        "price": 275,
+        "tags": [
+            "smart-casual",
+            "classic"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o25",
+        "top": "White Linen Blend Shirt",
+        "bottom": "Beige Linen Shorts",
+        "shoes": "Espadrilles",
+        "brand": "H&M",
+        "price": 65,
+        "tags": [
+            "relaxed",
+            "neutral",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o26",
+        "top": "Black Track Jacket",
+        "bottom": "Black Track Pants",
+        "shoes": "White Running Shoes",
+        "brand": "Adidas Originals",
+        "price": 130,
+        "tags": [
+            "sporty",
+            "monochrome",
+            "streetwear"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o27",
+        "top": "Brown Corduroy Shirt",
+        "bottom": "Dark Wash Jeans",
+        "shoes": "Leather Boots",
+        "brand": "Levi's",
+        "price": 110,
         "tags": [
             "casual",
             "cozy"
@@ -123,77 +369,985 @@
         "season": "fall"
     },
     {
-        "id": "o12",
-        "top": "polo shirt",
-        "bottom": "tailored trousers",
-        "shoes": "loafers",
+        "id": "o28",
+        "top": "Cream Silk Blouse",
+        "bottom": "Black Midi Skirt",
+        "shoes": "Black Ankle Boots",
+        "brand": "& Other Stories",
+        "price": 145,
         "tags": [
+            "minimal",
             "smart-casual"
         ],
-        "season": "spring"
+        "season": "fall"
     },
     {
-        "id": "o13",
-        "top": "windbreaker",
-        "bottom": "track pants",
-        "shoes": "running shoes",
+        "id": "o29",
+        "top": "Grey Cashmere Sweater",
+        "bottom": "White Jeans",
+        "shoes": "Grey Suede Loafers",
+        "brand": "Everlane",
+        "price": 195,
+        "tags": [
+            "minimal",
+            "neutral",
+            "cozy"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o30",
+        "top": "Neon Green Windbreaker",
+        "bottom": "Black Running Shorts",
+        "shoes": "Performance Trainers",
+        "brand": "Nike",
+        "price": 120,
         "tags": [
             "sporty"
         ],
         "season": "spring"
     },
     {
-        "id": "o14",
-        "top": "denim jacket",
-        "bottom": "black jeans",
-        "shoes": "sneakers",
+        "id": "o31",
+        "top": "Patterned Short Sleeve Shirt",
+        "bottom": "Navy Chino Shorts",
+        "shoes": "White Plimsolls",
+        "brand": "Bonobos",
+        "price": 95,
         "tags": [
             "casual",
-            "streetwear"
-        ],
-        "season": "fall"
-    },
-    {
-        "id": "o15",
-        "top": "wool coat",
-        "bottom": "tailored pants",
-        "shoes": "leather boots",
-        "tags": [
-            "smart",
-            "minimal"
-        ],
-        "season": "winter"
-    },
-    {
-        "id": "o16",
-        "top": "sweatshirt",
-        "bottom": "relaxed fit jeans",
-        "shoes": "sneakers",
-        "tags": [
-            "relaxed",
-            "casual"
-        ],
-        "season": "spring"
-    },
-    {
-        "id": "o17",
-        "top": "short-sleeve button-up",
-        "bottom": "light chinos",
-        "shoes": "loafers",
-        "tags": [
-            "clean",
             "summer"
         ],
         "season": "summer"
     },
     {
-        "id": "o18",
-        "top": "black blazer",
-        "bottom": "grey trousers",
-        "shoes": "dress shoes",
+        "id": "o32",
+        "top": "Black Oversized Blazer",
+        "bottom": "Light Blue Straight Jeans",
+        "shoes": "Black Mules",
+        "brand": "Zara",
+        "price": 130,
         "tags": [
-            "smart",
+            "smart-casual",
+            "streetwear"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o33",
+        "top": "White Heavy Cotton Tee",
+        "bottom": "Olive Cargo Pants",
+        "shoes": "New Balance 990s",
+        "brand": "New Balance",
+        "price": 240,
+        "tags": [
+            "streetwear",
+            "casual",
+            "relaxed"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o34",
+        "top": "Burgundy Knit Sweater",
+        "bottom": "Black Corduroy Skirt",
+        "shoes": "Black Tights and Boots",
+        "brand": "Urban Outfitters",
+        "price": 115,
+        "tags": [
+            "cozy",
+            "casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o35",
+        "top": "Navy Blue Raincoat",
+        "bottom": "Grey Jeans",
+        "shoes": "Duck Boots",
+        "brand": "Rains",
+        "price": 160,
+        "tags": [
+            "minimal",
+            "practical"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o36",
+        "top": "White Polo Shirt",
+        "bottom": "White Tennis Skirt",
+        "shoes": "White Tennis Shoes",
+        "brand": "Lacoste",
+        "price": 180,
+        "tags": [
+            "sporty",
+            "monochrome",
+            "smart-casual"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o37",
+        "top": "Beige Hoodie",
+        "bottom": "Brown Wide Leg Pants",
+        "shoes": "Canvas Sneakers",
+        "brand": "Uniqlo U",
+        "price": 90,
+        "tags": [
+            "neutral",
+            "relaxed",
+            "minimal"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o38",
+        "top": "Flannel Plaid Shirt",
+        "bottom": "Blue Jeans",
+        "shoes": "Hiking Boots",
+        "brand": "L.L.Bean",
+        "price": 140,
+        "tags": [
+            "casual",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o39",
+        "top": "Black Crop Top",
+        "bottom": "High Waisted Mom Jeans",
+        "shoes": "Dr. Martens Boots",
+        "brand": "Dr. Martens",
+        "price": 200,
+        "tags": [
+            "streetwear",
+            "casual"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o40",
+        "top": "Grey Thermal Long Sleeve",
+        "bottom": "Black Lounge Pants",
+        "shoes": "Fuzzy Slides",
+        "brand": "Skims",
+        "price": 110,
+        "tags": [
+            "cozy",
+            "relaxed",
             "monochrome"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o41",
+        "top": "Light Grey Suit Jacket",
+        "bottom": "Light Grey Suit Trousers",
+        "shoes": "White Leather Sneakers",
+        "brand": "Mango Man",
+        "price": 220,
+        "tags": [
+            "smart-casual",
+            "monochrome",
+            "minimal"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o42",
+        "top": "Orange Graphic Tee",
+        "bottom": "Camo Cargo Shorts",
+        "shoes": "Black Sneakers",
+        "brand": "Supreme (Resale)",
+        "price": 150,
+        "tags": [
+            "streetwear",
+            "casual"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o43",
+        "top": "Cream Shearling Jacket",
+        "bottom": "Dark Indigo Jeans",
+        "shoes": "Tan Boots",
+        "brand": "Levi's",
+        "price": 180,
+        "tags": [
+            "cozy",
+            "classic",
+            "winter"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o44",
+        "top": "Black Silk Camisole",
+        "bottom": "Champagne Slip Skirt",
+        "shoes": "Strappy Sandals",
+        "brand": "Reformation",
+        "price": 198,
+        "tags": [
+            "minimal",
+            "smart-casual"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o45",
+        "top": "Navy Crewneck Sweatshirt",
+        "bottom": "Khaki Chinos",
+        "shoes": "White Gum Sole Sneakers",
+        "brand": "J.Crew",
+        "price": 120,
+        "tags": [
+            "casual",
+            "smart-casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o46",
+        "top": "White Oxford Shirt",
+        "bottom": "Grey Wool Skirt",
+        "shoes": "Black Loafers with Socks",
+        "brand": "Arket",
+        "price": 135,
+        "tags": [
+            "smart-casual",
+            "minimal"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o47",
+        "top": "Teal Performance Tee",
+        "bottom": "Black Athletic Leggings",
+        "shoes": "Running Shoes",
+        "brand": "Lululemon",
+        "price": 140,
+        "tags": [
+            "sporty",
+            "active"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o48",
+        "top": "Beige Cardigan",
+        "bottom": "Floral Midi Dress",
+        "shoes": "White Sneakers",
+        "brand": "Madewell",
+        "price": 160,
+        "tags": [
+            "casual",
+            "relaxed"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o49",
+        "top": "Black Leather Jacket",
+        "bottom": "Grey Hoodie and Black Jeans",
+        "shoes": "Chelsea Boots",
+        "brand": "Zara",
+        "price": 150,
+        "tags": [
+            "streetwear",
+            "monochrome"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o50",
+        "top": "White Ribbed Tank",
+        "bottom": "Blue Denim Shorts",
+        "shoes": "Birkenstock Sandals",
+        "brand": "Birkenstock",
+        "price": 140,
+        "tags": [
+            "casual",
+            "relaxed",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o51",
+        "top": "Charcoal Mock Neck Sweater",
+        "bottom": "Black Jeans",
+        "shoes": "Black Derby Shoes",
+        "brand": "Club Monaco",
+        "price": 175,
+        "tags": [
+            "smart-casual",
+            "monochrome",
+            "minimal"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o52",
+        "top": "Yellow Rain Jacket",
+        "bottom": "Navy Jeans",
+        "shoes": "Rain Boots",
+        "brand": "Helly Hansen",
+        "price": 130,
+        "tags": [
+            "practical",
+            "casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o53",
+        "top": "Oversized Flannel Shirt",
+        "bottom": "Baggy Jeans",
+        "shoes": "Skate Shoes",
+        "brand": "Vans",
+        "price": 100,
+        "tags": [
+            "streetwear",
+            "relaxed",
+            "casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o54",
+        "top": "Mint Green Pullover",
+        "bottom": "White Capris",
+        "shoes": "Beige Flats",
+        "brand": "Ann Taylor",
+        "price": 110,
+        "tags": [
+            "smart-casual",
+            "spring"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o55",
+        "top": "Black V-Neck Tee",
+        "bottom": "Grey Linen Shorts",
+        "shoes": "Leather Flip Flops",
+        "brand": "Banana Republic",
+        "price": 70,
+        "tags": [
+            "casual",
+            "summer",
+            "minimal"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o56",
+        "top": "Puffer Vest",
+        "bottom": "Long Sleeve Tee and Joggers",
+        "shoes": "Trail Sneakers",
+        "brand": "Patagonia",
+        "price": 190,
+        "tags": [
+            "outdoors",
+            "sporty",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o57",
+        "top": "Blue Striped Button Down",
+        "bottom": "Beige Pencil Skirt",
+        "shoes": "Nude Heels",
+        "brand": "Express",
+        "price": 120,
+        "tags": [
+            "smart-casual",
+            "workwear"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o58",
+        "top": "White Graphic Tee",
+        "bottom": "Red Track Pants",
+        "shoes": "White High Tops",
+        "brand": "Adidas",
+        "price": 110,
+        "tags": [
+            "sporty",
+            "streetwear"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o59",
+        "top": "Brown Wool Blazer",
+        "bottom": "Dark Denim Jeans",
+        "shoes": "Brown Loafers",
+        "brand": "Massimo Dutti",
+        "price": 230,
+        "tags": [
+            "smart-casual",
+            "classic"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o60",
+        "top": "Grey Zip-Up Hoodie",
+        "bottom": "Black Leggings",
+        "shoes": "Slip-On Sneakers",
+        "brand": "Athleta",
+        "price": 130,
+        "tags": [
+            "sporty",
+            "casual",
+            "relaxed"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o61",
+        "top": "Cream Turtleneck",
+        "bottom": "Plaid Wool Trousers",
+        "shoes": "Leather Boots",
+        "brand": "Aritzia",
+        "price": 180,
+        "tags": [
+            "smart-casual",
+            "cozy"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o62",
+        "top": "Hawaiian Shirt",
+        "bottom": "Tan Shorts",
+        "shoes": "Sandals",
+        "brand": "Patagonia",
+        "price": 85,
+        "tags": [
+            "casual",
+            "summer",
+            "relaxed"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o63",
+        "top": "Black Long Sleeve Henley",
+        "bottom": "Grey Joggers",
+        "shoes": "House Slippers",
+        "brand": "UGG",
+        "price": 120,
+        "tags": [
+            "cozy",
+            "relaxed",
+            "monochrome"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o64",
+        "top": "Denim Shirt",
+        "bottom": "Black Chinos",
+        "shoes": "Desert Boots",
+        "brand": "Clarks",
+        "price": 150,
+        "tags": [
+            "smart-casual",
+            "casual"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o65",
+        "top": "White Blouse",
+        "bottom": "Black Wide Leg Trousers",
+        "shoes": "Pointed Flats",
+        "brand": "COS",
+        "price": 140,
+        "tags": [
+            "minimal",
+            "smart-casual",
+            "monochrome"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o66",
+        "top": "Navy Sweater Vest",
+        "bottom": "White T-Shirt and Blue Jeans",
+        "shoes": "White Sneakers",
+        "brand": "Gant",
+        "price": 130,
+        "tags": [
+            "smart-casual",
+            "preppy"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o67",
+        "top": "Black Mesh Top",
+        "bottom": "Cargo Skirt",
+        "shoes": "Platform Boots",
+        "brand": "Urban Outfitters",
+        "price": 110,
+        "tags": [
+            "streetwear",
+            "casual"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o68",
+        "top": "Grey Wool Coat",
+        "bottom": "Black Skinny Jeans",
+        "shoes": "Black Chelsea Boots",
+        "brand": "AllSaints",
+        "price": 295,
+        "tags": [
+            "smart-casual",
+            "monochrome",
+            "winter"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o69",
+        "top": "Green Rugby Shirt",
+        "bottom": "Khaki Shorts",
+        "shoes": "Boat Shoes",
+        "brand": "Ralph Lauren",
+        "price": 145,
+        "tags": [
+            "casual",
+            "preppy"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o70",
+        "top": "White Cropped Tee",
+        "bottom": "Purple Sweatpants",
+        "shoes": "White Sneakers",
+        "brand": "Champion",
+        "price": 80,
+        "tags": [
+            "casual",
+            "sporty",
+            "relaxed"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o71",
+        "top": "Beige Shacket (Shirt Jacket)",
+        "bottom": "Black Turtleneck and Jeans",
+        "shoes": "Boots",
+        "brand": "H&M",
+        "price": 90,
+        "tags": [
+            "casual",
+            "neutral",
+            "fall"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o72",
+        "top": "Blue Running Jacket",
+        "bottom": "Black Running Tights",
+        "shoes": "Running Sneakers",
+        "brand": "Asics",
+        "price": 160,
+        "tags": [
+            "sporty",
+            "active"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o73",
+        "top": "Black Oversized Hoodie",
+        "bottom": "Black Biker Shorts",
+        "shoes": "White Crew Socks and Slides",
+        "brand": "Yeezy (Resale/Style)",
+        "price": 180,
+        "tags": [
+            "streetwear",
+            "monochrome",
+            "relaxed"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o74",
+        "top": "Floral Print Dress",
+        "bottom": "Denim Jacket",
+        "shoes": "White Canvas Sneakers",
+        "brand": "Old Navy",
+        "price": 75,
+        "tags": [
+            "casual",
+            "spring"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o75",
+        "top": "Grey Suit",
+        "bottom": "White Shirt",
+        "shoes": "Black Oxfords",
+        "brand": "Indochino",
+        "price": 299,
+        "tags": [
+            "smart-casual",
+            "neutral"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o76",
+        "top": "Black Satin Top",
+        "bottom": "Wide Leg Jeans",
+        "shoes": "Heeled Boots",
+        "brand": "Mango",
+        "price": 120,
+        "tags": [
+            "smart-casual",
+            "night-out"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o77",
+        "top": "White Fleece Zip-Up",
+        "bottom": "Navy Leggings",
+        "shoes": "Hiking Shoes",
+        "brand": "Columbia",
+        "price": 100,
+        "tags": [
+            "cozy",
+            "sporty",
+            "outdoors"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o78",
+        "top": "Tan Corduroy Jacket",
+        "bottom": "Cream Pants",
+        "shoes": "Brown Sneakers",
+        "brand": "Vans",
+        "price": 130,
+        "tags": [
+            "casual",
+            "neutral",
+            "skate"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o79",
+        "top": "Light Blue Chambray Shirt",
+        "bottom": "White Shorts",
+        "shoes": "Brown Loafers",
+        "brand": "J.Crew Factory",
+        "price": 80,
+        "tags": [
+            "smart-casual",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o80",
+        "top": "Black Quarter Zip",
+        "bottom": "Grey Performance Pants",
+        "shoes": "Trainers",
+        "brand": "Under Armour",
+        "price": 110,
+        "tags": [
+            "sporty",
+            "active"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o81",
+        "top": "Oversized Grey Blazer",
+        "bottom": "Matching Grey Trousers",
+        "shoes": "Chunky Loafers",
+        "brand": "Frankie Shop",
+        "price": 250,
+        "tags": [
+            "minimal",
+            "monochrome",
+            "smart-casual"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o82",
+        "top": "Tie-Dye T-Shirt",
+        "bottom": "Denim Cutoffs",
+        "shoes": "Sandals",
+        "brand": "PacSun",
+        "price": 50,
+        "tags": [
+            "casual",
+            "relaxed",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o83",
+        "top": "Navy Quilted Jacket",
+        "bottom": "Chinos",
+        "shoes": "Leather Boots",
+        "brand": "Barbour",
+        "price": 220,
+        "tags": [
+            "classic",
+            "smart-casual",
+            "winter"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o84",
+        "top": "White Silk Shirt",
+        "bottom": "Black Leather Pants",
+        "shoes": "Black Heels",
+        "brand": "Zara",
+        "price": 140,
+        "tags": [
+            "smart-casual",
+            "monochrome"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o85",
+        "top": "Beige Knit Vest",
+        "bottom": "White Tee and Brown Pants",
+        "shoes": "Canvas Sneakers",
+        "brand": "Oak + Fort",
+        "price": 95,
+        "tags": [
+            "minimal",
+            "neutral",
+            "casual"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o86",
+        "top": "Graphic Hoodie",
+        "bottom": "Camo Pants",
+        "shoes": "Jordan 1s",
+        "brand": "Jordan",
+        "price": 260,
+        "tags": [
+            "streetwear",
+            "sporty"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o87",
+        "top": "Pastel Pink Cardigan",
+        "bottom": "Light Wash Jeans",
+        "shoes": "White Ballet Flats",
+        "brand": "Brandy Melville",
+        "price": 70,
+        "tags": [
+            "casual",
+            "soft",
+            "spring"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o88",
+        "top": "Grey Sweatshirt",
+        "bottom": "Grey Sweatshorts",
+        "shoes": "White Socks and Slides",
+        "brand": "Nike",
+        "price": 90,
+        "tags": [
+            "sporty",
+            "monochrome",
+            "relaxed"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o89",
+        "top": "Black Trench Coat",
+        "bottom": "White Shirt and Black Trousers",
+        "shoes": "Black Boots",
+        "brand": "Uniqlo",
+        "price": 150,
+        "tags": [
+            "minimal",
+            "smart-casual",
+            "monochrome"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o90",
+        "top": "Heavy Wool Sweater",
+        "bottom": "Thick Corduroys",
+        "shoes": "Snow Boots",
+        "brand": "Sorel",
+        "price": 210,
+        "tags": [
+            "cozy",
+            "winter",
+            "practical"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o91",
+        "top": "Striped Polo",
+        "bottom": "Navy Shorts",
+        "shoes": "White Sneakers",
+        "brand": "Tommy Hilfiger",
+        "price": 100,
+        "tags": [
+            "preppy",
+            "casual",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o92",
+        "top": "Black Bomber Jacket",
+        "bottom": "Grey Hoodie and Jeans",
+        "shoes": "Black Sneakers",
+        "brand": "Alpha Industries",
+        "price": 160,
+        "tags": [
+            "streetwear",
+            "classic"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o93",
+        "top": "White Linen Dress",
+        "bottom": "None",
+        "shoes": "Tan Sandals",
+        "brand": "Reformation",
+        "price": 218,
+        "tags": [
+            "minimal",
+            "summer",
+            "neutral"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o94",
+        "top": "Navy Blazer",
+        "bottom": "Grey T-Shirt and Jeans",
+        "shoes": "White Sneakers",
+        "brand": "Nordstrom",
+        "price": 180,
+        "tags": [
+            "smart-casual",
+            "relaxed"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o95",
+        "top": "Olive Green Field Jacket",
+        "bottom": "Black Jeans",
+        "shoes": "Brown Boots",
+        "brand": "Timberland",
+        "price": 190,
+        "tags": [
+            "casual",
+            "outdoors"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o96",
+        "top": "Cream Hoodie",
+        "bottom": "Cream Joggers",
+        "shoes": "Cream Sneakers",
+        "brand": "Fear of God Essentials",
+        "price": 200,
+        "tags": [
+            "streetwear",
+            "monochrome",
+            "cozy"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o97",
+        "top": "Plaid Flannel Shacket",
+        "bottom": "Black Leggings",
+        "shoes": "Combat Boots",
+        "brand": "Steve Madden",
+        "price": 120,
+        "tags": [
+            "casual",
+            "grunge",
+            "fall"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o98",
+        "top": "Charcoal T-Shirt",
+        "bottom": "Black Athletic Shorts",
+        "shoes": "Running Shoes",
+        "brand": "Reebok",
+        "price": 60,
+        "tags": [
+            "sporty",
+            "active"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o99",
+        "top": "White Button Down",
+        "bottom": "Beige Sweater Vest and Skirt",
+        "shoes": "Loafers",
+        "brand": "Zara",
+        "price": 110,
+        "tags": [
+            "smart-casual",
+            "preppy"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o100",
+        "top": "Brown Faux Leather Jacket",
+        "bottom": "Straight Leg Jeans",
+        "shoes": "Black Booties",
+        "brand": "Abercrombie & Fitch",
+        "price": 140,
+        "tags": [
+            "casual",
+            "trendy",
+            "fall"
         ],
         "season": "fall"
     }
