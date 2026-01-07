@@ -7,10 +7,19 @@ MEMORY_FILE = "memory/user_memory.json"
 def load_memory():
     if not os.path.exists(MEMORY_FILE):
         return {
-            "preferred_tags": {}
+            "preferred_tags": {},
+            "recent_outfits": []
         }
     with open(MEMORY_FILE, "r") as f:
         return json.load(f)
+
+    if "preferred_tags" not in memory:
+        memory["preferred_tags"] = {}
+    
+    if "recent_outfits" not in memory:
+        memory["recent_outfits"] = []
+
+    return memory
 
 def save_memory(memory):
     with open(MEMORY_FILE, "w") as f:

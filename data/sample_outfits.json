@@ -1,25 +1,200 @@
 [
     {
-        "id": "outfit_001",
+        "id": "o1",
         "top": "black overshirt",
         "bottom": "black straight jeans",
         "shoes": "leather sneakers",
         "tags": [
             "minimal",
-            "casual",
-            "neutral"
+            "neutral",
+            "casual"
         ],
         "season": "fall"
     },
     {
-        "id": "outfit_002",
+        "id": "o2",
         "top": "white tee",
         "bottom": "olive cargo pants",
         "shoes": "sneakers",
         "tags": [
             "streetwear",
-            "relaxed"
+            "relaxed",
+            "casual"
         ],
         "season": "summer"
+    },
+    {
+        "id": "o3",
+        "top": "grey hoodie",
+        "bottom": "black joggers",
+        "shoes": "running shoes",
+        "tags": [
+            "sporty",
+            "relaxed"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o4",
+        "top": "navy button-down",
+        "bottom": "beige chinos",
+        "shoes": "loafers",
+        "tags": [
+            "smart-casual",
+            "clean"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o5",
+        "top": "cream sweater",
+        "bottom": "dark denim",
+        "shoes": "boots",
+        "tags": [
+            "minimal",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o6",
+        "top": "black tee",
+        "bottom": "grey trousers",
+        "shoes": "derbies",
+        "tags": [
+            "monochrome",
+            "clean"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o7",
+        "top": "oversized hoodie",
+        "bottom": "cargo pants",
+        "shoes": "high-top sneakers",
+        "tags": [
+            "streetwear",
+            "relaxed"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o8",
+        "top": "linen shirt",
+        "bottom": "tailored shorts",
+        "shoes": "espadrilles",
+        "tags": [
+            "summer",
+            "clean"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o9",
+        "top": "black turtleneck",
+        "bottom": "slim trousers",
+        "shoes": "chelsea boots",
+        "tags": [
+            "minimal",
+            "smart-casual"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o10",
+        "top": "graphic tee",
+        "bottom": "ripped jeans",
+        "shoes": "skate shoes",
+        "tags": [
+            "streetwear",
+            "edgy"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o11",
+        "top": "flannel shirt",
+        "bottom": "straight jeans",
+        "shoes": "boots",
+        "tags": [
+            "casual",
+            "cozy"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o12",
+        "top": "polo shirt",
+        "bottom": "tailored trousers",
+        "shoes": "loafers",
+        "tags": [
+            "smart-casual"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o13",
+        "top": "windbreaker",
+        "bottom": "track pants",
+        "shoes": "running shoes",
+        "tags": [
+            "sporty"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o14",
+        "top": "denim jacket",
+        "bottom": "black jeans",
+        "shoes": "sneakers",
+        "tags": [
+            "casual",
+            "streetwear"
+        ],
+        "season": "fall"
+    },
+    {
+        "id": "o15",
+        "top": "wool coat",
+        "bottom": "tailored pants",
+        "shoes": "leather boots",
+        "tags": [
+            "smart",
+            "minimal"
+        ],
+        "season": "winter"
+    },
+    {
+        "id": "o16",
+        "top": "sweatshirt",
+        "bottom": "relaxed fit jeans",
+        "shoes": "sneakers",
+        "tags": [
+            "relaxed",
+            "casual"
+        ],
+        "season": "spring"
+    },
+    {
+        "id": "o17",
+        "top": "short-sleeve button-up",
+        "bottom": "light chinos",
+        "shoes": "loafers",
+        "tags": [
+            "clean",
+            "summer"
+        ],
+        "season": "summer"
+    },
+    {
+        "id": "o18",
+        "top": "black blazer",
+        "bottom": "grey trousers",
+        "shoes": "dress shoes",
+        "tags": [
+            "smart",
+            "monochrome"
+        ],
+        "season": "fall"
     }
 ]

@@ -21,4 +21,14 @@ def score_outfit(outfit, preferences, memory):
             score += weighted
             reasons.append(f"you liked {tag} before")
 
+        if outfit["id"] in memory.get("recent_outfits", []):
+            score -= 3
+            reasons.append("shown recently, reducing repetition")
+
     return score, reasons
+
+def compute_confidence(score, reasons, exploration = False):
+    base = min(score/10, 1.0)
+    if exploration:
+        base *= 0.6
+    return round(base, 2)

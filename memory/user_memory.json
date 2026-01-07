@@ -1,4 +1,55 @@
 {
-  "preferred_tags": {},
-  "disliked_tags": {}
+  "preferred_tags": {
+    "minimal": {
+      "score": 0,
+      "last_updated": 1767773457
+    },
+    "neutral": {
+      "score": 0,
+      "last_updated": 1767773452
+    },
+    "casual": {
+      "score": 0,
+      "last_updated": 1767773452
+    },
+    "cozy": {
+      "score": 0,
+      "last_updated": 1767773455
+    },
+    "smart-casual": {
+      "score": 0,
+      "last_updated": 1767773457
+    },
+    "smart": {
+      "score": 0,
+      "last_updated": 1767773440
+    },
+    "summer": {
+      "score": 0,
+      "last_updated": 1767773419
+    },
+    "clean": {
+      "score": 0,
+      "last_updated": 1767773419
+    },
+    "streetwear": {
+      "score": 0,
+      "last_updated": 1767773444
+    },
+    "relaxed": {
+      "score": 0,
+      "last_updated": 1767773448
+    },
+    "sporty": {
+      "score": 0,
+      "last_updated": 1767773448
+    }
+  },
+  "recent_outfits": [
+    "o2",
+    "o3",
+    "o1",
+    "o5",
+    "o9"
+  ]
 }
