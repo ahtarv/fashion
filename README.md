@@ -19,6 +19,7 @@ This project models the **core mechanics of modern recommender systems** (Netfli
 ### 🎯 Exploration vs Exploitation (ε-greedy)
 - Mostly recommends the best-known option
 - Occasionally explores new outfits to avoid stagnation
+- **Budget-Aware**: Exploration strictly respects user budget constraints
 
 ### 🔁 Repetition / Fatigue Control
 - Penalizes recently shown outfits
@@ -26,6 +27,11 @@ This project models the **core mechanics of modern recommender systems** (Netfli
 
 ### 🪞 Explainability
 - Every recommendation includes human-readable reasons
+
+### 🎨 Smart Color Analysis
+- Automatically detects color palettes (Neutral, Warm, Cool)
+- Rewards cohesive color schemes in ranking
+- Uses set-based logic to categorize outfit tones
 
 ### 📊 Confidence Scoring
 - Outputs how confident the system is in each recommendation
@@ -102,6 +108,7 @@ Each outfit is scored using:
 
 * Match with declared preferences
 * Learned tag preferences
+* **Color Palette Harmony** (Neutral, Warm, Cool analysis)
 * Time-decayed memory
 * Penalty for recently shown outfits
 * Exploration penalty (if applicable)

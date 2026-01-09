@@ -11,7 +11,7 @@ def load_memory():
             "recent_outfits": []
         }
     with open(MEMORY_FILE, "r") as f:
-        return json.load(f)
+        memory = json.load(f)
 
     if "preferred_tags" not in memory:
         memory["preferred_tags"] = {}
@@ -35,9 +35,9 @@ def update_memory(outfit, feedback):
             "last_updated": now
         })
 
-        if feedback == "like":
+        if feedback == "yes":
             entry["score"] += 1
-        elif feedback == "dislike":
+        elif feedback == "no":
             entry["score"] -= 1
 
         entry["last_updated"] = now

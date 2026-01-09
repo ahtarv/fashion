@@ -11,7 +11,11 @@
             "casual",
             "monochrome"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o2",
@@ -25,7 +29,11 @@
             "streetwear",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "grey",
+            "navy"
+        ]
     },
     {
         "id": "o3",
@@ -39,7 +47,13 @@
             "relaxed",
             "neutral"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "beige",
+            "brown",
+            "green",
+            "olive"
+        ]
     },
     {
         "id": "o4",
@@ -53,7 +67,11 @@
             "smart-casual",
             "monochrome"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "charcoal"
+        ]
     },
     {
         "id": "o5",
@@ -66,7 +84,13 @@
             "smart-casual",
             "neutral"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "blue",
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o6",
@@ -80,7 +104,10 @@
             "casual",
             "relaxed"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "blue"
+        ]
     },
     {
         "id": "o7",
@@ -94,7 +121,12 @@
             "cozy",
             "neutral"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue",
+            "brown",
+            "cream"
+        ]
     },
     {
         "id": "o8",
@@ -107,7 +139,13 @@
             "streetwear",
             "smart-casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "green",
+            "olive",
+            "white"
+        ]
     },
     {
         "id": "o9",
@@ -120,7 +158,12 @@
             "smart-casual",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "blue",
+            "navy",
+            "red"
+        ]
     },
     {
         "id": "o10",
@@ -134,7 +177,12 @@
             "cozy",
             "winter"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o11",
@@ -147,7 +195,11 @@
             "casual",
             "minimal"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o12",
@@ -161,7 +213,13 @@
             "minimal",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "charcoal",
+            "grey",
+            "red"
+        ]
     },
     {
         "id": "o13",
@@ -175,7 +233,13 @@
             "neutral",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "beige",
+            "black",
+            "tan",
+            "white"
+        ]
     },
     {
         "id": "o14",
@@ -189,7 +253,11 @@
             "sporty",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "green",
+            "khaki"
+        ]
     },
     {
         "id": "o15",
@@ -203,7 +271,10 @@
             "casual",
             "streetwear"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black"
+        ]
     },
     {
         "id": "o16",
@@ -216,7 +287,13 @@
             "casual",
             "streetwear"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "blue",
+            "brown",
+            "orange",
+            "rust"
+        ]
     },
     {
         "id": "o17",
@@ -230,7 +307,8 @@
             "streetwear",
             "cozy"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": []
     },
     {
         "id": "o18",
@@ -244,7 +322,13 @@
             "relaxed",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "grey",
+            "pale",
+            "pink",
+            "white"
+        ]
     },
     {
         "id": "o19",
@@ -257,7 +341,11 @@
             "smart-casual",
             "neutral"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "camel"
+        ]
     },
     {
         "id": "o20",
@@ -271,7 +359,11 @@
             "relaxed",
             "monochrome"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o21",
@@ -284,7 +376,12 @@
             "minimal",
             "smart-casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "grey",
+            "navy"
+        ]
     },
     {
         "id": "o22",
@@ -298,7 +395,12 @@
             "smart-casual",
             "neutral"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "blue",
+            "white"
+        ]
     },
     {
         "id": "o23",
@@ -312,7 +414,10 @@
             "casual",
             "monochrome"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black"
+        ]
     },
     {
         "id": "o24",
@@ -325,7 +430,12 @@
             "smart-casual",
             "classic"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "brown",
+            "grey",
+            "navy"
+        ]
     },
     {
         "id": "o25",
@@ -339,7 +449,11 @@
             "neutral",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "beige",
+            "white"
+        ]
     },
     {
         "id": "o26",
@@ -353,7 +467,11 @@
             "monochrome",
             "streetwear"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o27",
@@ -366,7 +484,11 @@
             "casual",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "brown"
+        ]
     },
     {
         "id": "o28",
@@ -379,7 +501,11 @@
             "minimal",
             "smart-casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "cream"
+        ]
     },
     {
         "id": "o29",
@@ -393,7 +519,11 @@
             "neutral",
             "cozy"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o30",
@@ -405,7 +535,11 @@
         "tags": [
             "sporty"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "green"
+        ]
     },
     {
         "id": "o31",
@@ -418,7 +552,11 @@
             "casual",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o32",
@@ -431,7 +569,11 @@
             "smart-casual",
             "streetwear"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "blue"
+        ]
     },
     {
         "id": "o33",
@@ -445,7 +587,11 @@
             "casual",
             "relaxed"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "olive",
+            "white"
+        ]
     },
     {
         "id": "o34",
@@ -458,7 +604,11 @@
             "cozy",
             "casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "burgundy"
+        ]
     },
     {
         "id": "o35",
@@ -471,7 +621,12 @@
             "minimal",
             "practical"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue",
+            "grey",
+            "navy"
+        ]
     },
     {
         "id": "o36",
@@ -485,7 +640,10 @@
             "monochrome",
             "smart-casual"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "white"
+        ]
     },
     {
         "id": "o37",
@@ -499,7 +657,11 @@
             "relaxed",
             "minimal"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "beige",
+            "brown"
+        ]
     },
     {
         "id": "o38",
@@ -512,7 +674,10 @@
             "casual",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue"
+        ]
     },
     {
         "id": "o39",
@@ -525,7 +690,11 @@
             "streetwear",
             "casual"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "blue"
+        ]
     },
     {
         "id": "o40",
@@ -539,7 +708,11 @@
             "relaxed",
             "monochrome"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o41",
@@ -553,7 +726,11 @@
             "monochrome",
             "minimal"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o42",
@@ -566,7 +743,11 @@
             "streetwear",
             "casual"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black",
+            "orange"
+        ]
     },
     {
         "id": "o43",
@@ -580,7 +761,12 @@
             "classic",
             "winter"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "cream",
+            "indigo",
+            "tan"
+        ]
     },
     {
         "id": "o44",
@@ -593,7 +779,11 @@
             "minimal",
             "smart-casual"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black",
+            "champagne"
+        ]
     },
     {
         "id": "o45",
@@ -606,7 +796,12 @@
             "casual",
             "smart-casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "khaki",
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o46",
@@ -619,7 +814,12 @@
             "smart-casual",
             "minimal"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o47",
@@ -632,7 +832,11 @@
             "sporty",
             "active"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "teal"
+        ]
     },
     {
         "id": "o48",
@@ -645,7 +849,11 @@
             "casual",
             "relaxed"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "white"
+        ]
     },
     {
         "id": "o49",
@@ -658,7 +866,11 @@
             "streetwear",
             "monochrome"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o50",
@@ -672,7 +884,12 @@
             "relaxed",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "blue",
+            "tan",
+            "white"
+        ]
     },
     {
         "id": "o51",
@@ -686,7 +903,11 @@
             "monochrome",
             "minimal"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "charcoal"
+        ]
     },
     {
         "id": "o52",
@@ -699,7 +920,12 @@
             "practical",
             "casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue",
+            "navy",
+            "yellow"
+        ]
     },
     {
         "id": "o53",
@@ -713,7 +939,10 @@
             "relaxed",
             "casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue"
+        ]
     },
     {
         "id": "o54",
@@ -726,7 +955,13 @@
             "smart-casual",
             "spring"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "green",
+            "mint",
+            "white"
+        ]
     },
     {
         "id": "o55",
@@ -740,7 +975,11 @@
             "summer",
             "minimal"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o56",
@@ -754,7 +993,8 @@
             "sporty",
             "cozy"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": []
     },
     {
         "id": "o57",
@@ -767,7 +1007,12 @@
             "smart-casual",
             "workwear"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "blue",
+            "nude"
+        ]
     },
     {
         "id": "o58",
@@ -780,7 +1025,11 @@
             "sporty",
             "streetwear"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "red",
+            "white"
+        ]
     },
     {
         "id": "o59",
@@ -793,7 +1042,11 @@
             "smart-casual",
             "classic"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "blue",
+            "brown"
+        ]
     },
     {
         "id": "o60",
@@ -807,7 +1060,11 @@
             "casual",
             "relaxed"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o61",
@@ -820,7 +1077,11 @@
             "smart-casual",
             "cozy"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "cream"
+        ]
     },
     {
         "id": "o62",
@@ -834,7 +1095,10 @@
             "summer",
             "relaxed"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "tan"
+        ]
     },
     {
         "id": "o63",
@@ -848,7 +1112,11 @@
             "relaxed",
             "monochrome"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o64",
@@ -861,7 +1129,11 @@
             "smart-casual",
             "casual"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "blue"
+        ]
     },
     {
         "id": "o65",
@@ -875,7 +1147,11 @@
             "smart-casual",
             "monochrome"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o66",
@@ -888,7 +1164,12 @@
             "smart-casual",
             "preppy"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "blue",
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o67",
@@ -901,7 +1182,10 @@
             "streetwear",
             "casual"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black"
+        ]
     },
     {
         "id": "o68",
@@ -915,7 +1199,11 @@
             "monochrome",
             "winter"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o69",
@@ -928,7 +1216,11 @@
             "casual",
             "preppy"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "green",
+            "khaki"
+        ]
     },
     {
         "id": "o70",
@@ -942,7 +1234,11 @@
             "sporty",
             "relaxed"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "purple",
+            "white"
+        ]
     },
     {
         "id": "o71",
@@ -956,7 +1252,11 @@
             "neutral",
             "fall"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "beige",
+            "black"
+        ]
     },
     {
         "id": "o72",
@@ -969,7 +1269,11 @@
             "sporty",
             "active"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "blue"
+        ]
     },
     {
         "id": "o73",
@@ -983,7 +1287,11 @@
             "monochrome",
             "relaxed"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o74",
@@ -996,7 +1304,11 @@
             "casual",
             "spring"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "blue",
+            "white"
+        ]
     },
     {
         "id": "o75",
@@ -1009,7 +1321,12 @@
             "smart-casual",
             "neutral"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o76",
@@ -1022,7 +1339,11 @@
             "smart-casual",
             "night-out"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "blue"
+        ]
     },
     {
         "id": "o77",
@@ -1036,7 +1357,11 @@
             "sporty",
             "outdoors"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o78",
@@ -1050,7 +1375,12 @@
             "neutral",
             "skate"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "brown",
+            "cream",
+            "tan"
+        ]
     },
     {
         "id": "o79",
@@ -1063,7 +1393,12 @@
             "smart-casual",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "blue",
+            "brown",
+            "white"
+        ]
     },
     {
         "id": "o80",
@@ -1076,7 +1411,11 @@
             "sporty",
             "active"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o81",
@@ -1090,7 +1429,10 @@
             "monochrome",
             "smart-casual"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "grey"
+        ]
     },
     {
         "id": "o82",
@@ -1104,7 +1446,10 @@
             "relaxed",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "blue"
+        ]
     },
     {
         "id": "o83",
@@ -1118,7 +1463,12 @@
             "smart-casual",
             "winter"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "beige",
+            "black",
+            "navy"
+        ]
     },
     {
         "id": "o84",
@@ -1131,7 +1481,11 @@
             "smart-casual",
             "monochrome"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o85",
@@ -1145,7 +1499,12 @@
             "neutral",
             "casual"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "brown",
+            "white"
+        ]
     },
     {
         "id": "o86",
@@ -1158,7 +1517,8 @@
             "streetwear",
             "sporty"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": []
     },
     {
         "id": "o87",
@@ -1172,7 +1532,12 @@
             "soft",
             "spring"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "blue",
+            "pink",
+            "white"
+        ]
     },
     {
         "id": "o88",
@@ -1186,7 +1551,11 @@
             "monochrome",
             "relaxed"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "grey",
+            "white"
+        ]
     },
     {
         "id": "o89",
@@ -1200,7 +1569,11 @@
             "smart-casual",
             "monochrome"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "white"
+        ]
     },
     {
         "id": "o90",
@@ -1214,7 +1587,8 @@
             "winter",
             "practical"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": []
     },
     {
         "id": "o91",
@@ -1228,7 +1602,11 @@
             "casual",
             "summer"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o92",
@@ -1241,7 +1619,11 @@
             "streetwear",
             "classic"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "grey"
+        ]
     },
     {
         "id": "o93",
@@ -1255,7 +1637,11 @@
             "summer",
             "neutral"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "tan",
+            "white"
+        ]
     },
     {
         "id": "o94",
@@ -1268,7 +1654,12 @@
             "smart-casual",
             "relaxed"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "grey",
+            "navy",
+            "white"
+        ]
     },
     {
         "id": "o95",
@@ -1281,7 +1672,13 @@
             "casual",
             "outdoors"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "brown",
+            "green",
+            "olive"
+        ]
     },
     {
         "id": "o96",
@@ -1295,7 +1692,10 @@
             "monochrome",
             "cozy"
         ],
-        "season": "winter"
+        "season": "winter",
+        "colors": [
+            "cream"
+        ]
     },
     {
         "id": "o97",
@@ -1309,7 +1709,10 @@
             "grunge",
             "fall"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black"
+        ]
     },
     {
         "id": "o98",
@@ -1322,7 +1725,11 @@
             "sporty",
             "active"
         ],
-        "season": "summer"
+        "season": "summer",
+        "colors": [
+            "black",
+            "charcoal"
+        ]
     },
     {
         "id": "o99",
@@ -1335,7 +1742,11 @@
             "smart-casual",
             "preppy"
         ],
-        "season": "spring"
+        "season": "spring",
+        "colors": [
+            "beige",
+            "white"
+        ]
     },
     {
         "id": "o100",
@@ -1349,6 +1760,11 @@
             "trendy",
             "fall"
         ],
-        "season": "fall"
+        "season": "fall",
+        "colors": [
+            "black",
+            "blue",
+            "brown"
+        ]
     }
 ]

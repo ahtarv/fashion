@@ -1,10 +1,41 @@
 import time
 
+NEUTRAL_COLORS = {
+    "black", "white", "grey", "beige", "brown", "navy", "cream"
+}
+
+WARM_COLORS = {
+    "beige", "brown", "tan", "olive", "rust"
+}
+
+COOL_COLORS = {
+    "blue", "grey", "navy", "black", "white"
+}
+
+
 def score_outfit(outfit, preferences, memory):
     score = 0
     reasons = []
     now = time.time()
 
+    colors = outfit.get("colors", [])
+
+    if colors:
+        neutral_count = sum(c in NEUTRAL_COLORS for c in colors)
+        warm_count = sum(c in WARM_COLORS for c in colors)
+        cool_count = sum(c in COOL_COLORS for c in colors)
+
+        if neutral_count >= 2:
+            score+= 2
+            reasons.append("Clean neutral color palette")
+        
+        if warm_count >= 2:
+            score+= 1
+            reasons.append("Warm color palette")
+        
+        if cool_count >= 2:
+            score+= 1
+            reasons.append("Cool color palette")
     for tag in outfit["tags"]:
         # Preference match
         if tag in preferences["styles"]:
